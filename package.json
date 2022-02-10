@@ -1,0 +1,25 @@
+{
+  "name": "dns-to-json",
+  "version": "1.0.0",
+  "description": "Module that allows you to query DNS information and display data in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regexart/dns-to-json.git"
+  },
+  "keywords": [
+    "dns"
+  ],
+  "author": "RegEx Art <regexart@gmail.com> (https://regexart.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regexart/dns-to-json/issues"
+  },
+  "homepage": "https://github.com/regexart/dns-to-json#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
